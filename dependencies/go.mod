@@ -1,4 +1,4 @@
-module github.com/google/docsy/dependencies
+module github.com/before80/docsy/dependencies
 
 go 1.12
 
